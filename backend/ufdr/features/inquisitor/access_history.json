@@ -1,0 +1,37 @@
+[
+    {
+        "timestamp": "2025-10-14 20:53:10",
+        "user": "analyst",
+        "action": "Successful login by user: analyst"
+    },
+    {
+        "timestamp": "2025-10-14 20:53:11",
+        "user": "analyst",
+        "action": "Access denied for 'admin_logs' to user: analyst"
+    },
+    {
+        "timestamp": "2025-10-14 20:53:12",
+        "user": "analyst",
+        "action": "Access denied for 'user_management' to user: analyst"
+    },
+    {
+        "timestamp": "2025-10-14 20:54:22",
+        "user": "analyst",
+        "action": "Added new Audio log entry with ID: 6005b889-a0c8-4385-969d-edbb42b20e83"
+    },
+    {
+        "timestamp": "2025-10-14 20:54:29",
+        "user": "analyst",
+        "action": "Access denied for 'remove_logs' to user: analyst"
+    },
+    {
+        "timestamp": "2025-10-14 20:54:30",
+        "user": "analyst",
+        "action": "User logged out: analyst"
+    },
+    {
+        "timestamp": "2025-10-14 22:09:05",
+        "user": "Unauthenticated",
+        "action": "Failed login attempt for user: ok"
+    }
+]
