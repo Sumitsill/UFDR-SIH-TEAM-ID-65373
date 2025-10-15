@@ -63,7 +63,7 @@ export default function Home() {
               onClick={() => navigate('/upload')}
               className="px-8 py-4 bg-transparent border-2 border-blue-400 hover:bg-blue-400/10 text-blue-400 font-semibold rounded-lg transition-all duration-300"
             >
-              Learn More
+              Upload Case
             </button>
           </div>
 
